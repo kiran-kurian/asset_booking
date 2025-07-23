@@ -110,3 +110,5 @@ The backend server provides the following API endpoints:
 - `GET /api/bookings/:assetId`: Fetches all bookings for a specific asset ID.
 - `POST /api/bookings`: Creates a new booking.
 
+
+**Video Link: https://drive.google.com/file/d/1M7we45wsyQpDPaYwJRewTj_IYN2oRaE_/view?usp=sharing**
